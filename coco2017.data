@@ -1,0 +1,4 @@
+classes=1
+train=/content/yolov3/data/guns_train.txt
+valid=/content/yolov3/data/guns_test.txt
+names=data/guns.names
