@@ -1,0 +1,4 @@
+classes=1
+train=data/guns_train.txt
+valid=data/guns_test.txt
+names=data/coco_paper.names

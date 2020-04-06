@@ -1,0 +1,16 @@
+/content/drive/My Drive/yolo/data/Images/1.jpeg
+/content/drive/My Drive/yolo/data/Images/10.jpeg
+/content/drive/My Drive/yolo/data/Images/100.jpeg
+/content/drive/My Drive/yolo/data/Images/101.jpeg
+/content/drive/My Drive/yolo/data/Images/102.jpeg
+/content/drive/My Drive/yolo/data/Images/103.jpeg
+/content/drive/My Drive/yolo/data/Images/104.jpeg
+/content/drive/My Drive/yolo/data/Images/105.jpeg
+/content/drive/My Drive/yolo/data/Images/106.jpeg
+/content/drive/My Drive/yolo/data/Images/107.jpeg
+/content/drive/My Drive/yolo/data/Images/108.jpeg
+/content/drive/My Drive/yolo/data/Images/109.jpeg
+/content/drive/My Drive/yolo/data/Images/11.jpeg
+/content/drive/My Drive/yolo/data/Images/110.jpeg
+/content/drive/My Drive/yolo/data/Images/111.jpeg
+/content/drive/My Drive/yolo/data/Images/112.jpeg

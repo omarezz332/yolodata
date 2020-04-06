@@ -1,0 +1,4 @@
+classes=1
+train=/content/drive/My Drive/yolo/data/guns_train.txt
+valid=/content/drive/My Drive/yolo/data/guns_test.txt
+names=data/guns.names
